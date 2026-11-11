@@ -1,0 +1,7 @@
+# 本项目只用 Python 标准库, 无需安装任何第三方包。
+# 要求: Python >= 3.8
+#
+# 外部依赖 (非 pip, 需单独安装): ffmpeg + ffprobe
+#   Windows: https://www.gyan.dev/ffmpeg/builds/  或  winget install Gyan.FFmpeg
+#   macOS:   brew install ffmpeg
+#   Linux:   sudo apt install ffmpeg
